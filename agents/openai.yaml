@@ -1,0 +1,4 @@
+interface:
+  display_name: "免手写作业skill"
+  short_description: "贴近本地笔迹的潦草 A4 作业，偶有涂改、行间约 5° 错位，支持各类配图"
+  default_prompt: "使用 $mian-shouxie-zuoye，按本地参考字迹做成 A4 手写作业，字迹再潦草一些，偶尔有少量自然涂改，行间约 5° 错位，画出需要的各类图并校对；不要上传真实参考照片。"
